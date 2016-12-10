@@ -1,0 +1,6 @@
+D:\com\HTML_cycles\server\bin\Debug\server.exe.config
+D:\com\HTML_cycles\server\bin\Debug\server.exe
+D:\com\HTML_cycles\server\bin\Debug\server.pdb
+D:\com\HTML_cycles\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+D:\com\HTML_cycles\server\obj\Debug\server.exe
+D:\com\HTML_cycles\server\obj\Debug\server.pdb
